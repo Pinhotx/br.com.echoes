@@ -1,0 +1,86 @@
+body{
+
+	background-color: #f2f2f2;
+}
+.img-trab{
+	width:600px;
+	height:300px;
+	object-fit: cover;
+}
+.square-slider{
+	background: rgba(125,158,89,0.8);
+}
+.slider-text-galeria{
+text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
+                 0px -5px 35px rgba(255,255,255,0.3);
+}
+.navbarlinks{
+	font-size: 1.2em;
+}
+.center {
+  margin: auto;
+  width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.bg-theme{
+
+	background-color: #7d9e59;
+}
+.bg-theme-light{
+	background-color: #bbc390;
+}
+
+.titulo{
+	font-size: 1.3em;
+	margin-right: auto;
+	margin-left: 5%;
+}
+.tabs .indicator{
+
+	background-color: #fff;
+}
+.topoFixo{
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 2;
+}
+.section{
+
+	padding-top: 125px;
+
+}
+.disabled{
+	color: #e51c23
+}
+.img-circle-responsive{
+	width: 200;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+}
+
+.img-responsive{
+	width: 200;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.checkbox-indigo[type="checkbox"] + label:before{
+    border: 2px solid indigo;
+    background: transparent;
+}
+
+.modal{
+	height: 99%;
+	width: 99%;
+}
+
+.modal-content{
+
+	width: 99%;
+}
