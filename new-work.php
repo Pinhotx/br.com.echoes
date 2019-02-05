@@ -9,7 +9,7 @@
     <link rel="shortcut icon" href="img/favicon/favicon-32x32.png" />
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Echoes - Consultoria Ambiental</title>
+    <title>Novo Trabalho</title>
 
   </head>
 
@@ -132,11 +132,9 @@
        <p class="flow-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a tellus magna. Maecenas elementum pellentesque nisl, ac venenatis eros imperdiet eget. Aliquam vitae urna leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum semper metus eu lectus hendrerit elementum. Mauris a metus at quam bibendum malesuada ac nec elit. Maecenas ac metus tincidunt sem tincidunt varius nec id nisl. In eu neque magna. Aenean aliquam vehicula magna nec aliquet. Etiam vulputate nulla ut metus aliquet commodo. Pellentesque aliquet purus diam, at venenatis nulla consequat et. Ut feugiat purus ipsum, eu pellentesque metus condimentum in. Mauris interdum, enim sollicitudin suscipit viverra, odio arcu maximus erat, vel molestie est nulla eget magna. Integer sem sapien, viverra sit amet eros eu, facilisis lacinia elit. Donec eget orci pharetra eros cursus ullamcorper. Nullam feugiat, odio et sodales hendrerit, odio enim elementum mi, non egestas dolor arcu a arcu.
        </p>
      </div>
-     <div class="container">
      <div class="col s6">
-       <i href="#" id="logo-container" class="brand-logo"><img class="img-circle-responsive" width="120%" src="img/logo-text.png"></i>
+       <img width="600em" src="img/logo-text.png">
      </div>
-   </div>
    </div>
 
    <div class="row">
@@ -144,7 +142,7 @@
            <h3>Trabalhos Anteriores</h3>
          </div>
 
-         <div class="col s12 m4 l4">
+         <div class="col s4">
            <div class="card square-slider darken-1">
              <div class="card-content white-text">
              <span class="black-text card-title">Mata Atlântica</span>
@@ -159,7 +157,7 @@
            </div>
          </div>
 
-           <div class="col s12 m4 l4">
+           <div class="col s4">
              <div class="card square-slider darken-1">
                <div class="card-content white-text">
                <span class="black-text card-title">Amazonia</span>
@@ -174,7 +172,7 @@
              </div>
            </div>
 
-           <div class="col s12 m4 l4">
+           <div class="col s4">
              <div class="card square-slider darken-1">
                <div class="card-content white-text">
                <span class="black-text card-title">Amazonia</span>
